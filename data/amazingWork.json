@@ -1,0 +1,34 @@
+[
+    {
+     "imagen": "assets/pictures/amazingWork/1.jpg",
+     "titulo": "Awesome Work Title Heree",
+     "likes": "34"
+    },
+    {
+     "imagen": "assets/pictures/amazingWork/2.jpg",
+     "titulo": "Awesome Work Title Here",
+     "likes": "646"
+    },
+    {
+     "imagen": "assets/pictures/amazingWork/3.jpg",
+     "titulo": "Awesome Work Title Here",
+     "likes": "12"
+    },
+    {
+     "imagen": "assets/pictures/amazingWork/4.jpg",
+     "titulo": "Awesome Work Title Here",
+     "likes": "76"
+    },
+    {
+     "imagen": "assets/pictures/amazingWork/5.jpg",
+     "titulo": "Awesome Work Title Here",
+     "likes": "57"
+    },
+    {
+     "imagen": "assets/pictures/amazingWork/6.jpg",
+     "titulo": "Awesome Work Title Here",
+     "likes": "02"
+    }
+
+]
+

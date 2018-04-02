@@ -1,0 +1,31 @@
+[{
+        "imagen": "assets/pictures/banda-imagenes/1.jpg",
+        "titulo": "Standard Blog Title Here",
+        "fecha": "27 July, 2014",
+        "categoria": "|| Category"
+    },
+    {
+        "imagen": "assets/pictures/banda-imagenes/2.jpg",
+        "titulo": "Standard Blog Title Here",
+        "fecha": "27 July, 2014",
+        "categoria": "|| Category"
+    },
+    {
+        "imagen": "assets/pictures/banda-imagenes/3.jpg",
+        "titulo": "Standard Blog Title Here",
+        "fecha": "27 July, 2014",
+        "categoria": "|| Category"
+    },
+    {
+        "imagen": "assets/pictures/banda-imagenes/4.jpg",
+        "titulo": "Standard Blog Title Here",
+        "fecha": "27 July, 2014",
+        "categoria": "|| Category"
+    },
+    {
+        "imagen": "assets/pictures/banda-imagenes/5.jpg",
+        "titulo": "Standard Blog Title Here",
+        "fecha": "27 July, 2014",
+        "categoria": "|| Category"
+    }
+]
